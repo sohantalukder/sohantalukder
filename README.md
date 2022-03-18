@@ -1,42 +1,25 @@
-# Hi, I'm Md. Sohan Talukder
+<h1 align="center">Hi 👋, I'm Md. Sohan Talukder Akash</h1>
+<h3 align="center">A passionate frontend developer also a user interface designer</h3>
 
-### A Passionate Web Developer also UI Designer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohantalukder&label=Profile%20views&color=0e75b6&style=flat" alt="sohantalukder" /> </p>
 
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+technologies;Frontend+React+developer+"></a>
+- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://sohantalukder.netlify.app/](https://sohantalukder.netlify.app/)
+
+- 📫 How to reach me **mdtalukder.sohan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y4lmM_Q9zB0oEmD5m8uom_HvdUSPcuRE/view](https://drive.google.com/file/d/1y4lmM_Q9zB0oEmD5m8uom_HvdUSPcuRE/view)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mdsohantalukde3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsohantalukde3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sohantalukder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohantalukder/" height="30" width="40" /></a>
+<a href="https://fb.com/sohantalukder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohantalukder0" height="30" width="40" /></a>
+<a href="https://instagram.com/shohanakash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shohanakash/" height="30" width="40" /></a>
+<a href="https://dribbble.com/sohantalukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sohantalukder" height="30" width="40" /></a>
+<a href="https://www.behance.net/sohantalukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sohantalukder" height="30" width="40" /></a>
 </p>
 
-### 🤝 Connect with me
-
-- 🌐 <b>Portfolio:</b> <a href="https://sohantalukder.netlify.app/" target="_blank" title="Portfolio">https://sohantalukder.netlify.app/</a>
-- 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sohantalukder/" target="_blank" title="LinkedIn">https://www.linkedin.com/in/sohantalukder/</a>
-- 📫 <b>Email:</b> mdtalukder.sohan@gmail.com
-
-<br />
-
-### 👨‍💻 Languages and Frameworks
-
-<img align="left" alt="ReactJs" title="ReactJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="ExpressJS" title="ExpressJS" height="32" width="32" src="https://i.imgur.com/HIF5Fwy.jpg"/>
-<img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Typescript" title="Typescript" height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
-<img align="left" alt="NodeJS" title="NodeJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
-<img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
-<!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" /> -->
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<!-- GitHub Profile Views Counter -->
-
-![](https://komarev.com/ghpvc/?username=sohantalukder)
-
-<!-- ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>

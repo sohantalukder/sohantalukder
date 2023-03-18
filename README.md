@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sohan Talukder Akash</h1>
-<h3 align="center">A passionate frontend developer also a user interface designer</h3>
+<h3 align="center">A passionate Software Engineer (React & React Native)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohantalukder&label=Profile%20views&color=0e75b6&style=flat" alt="sohantalukder" /> </p>
 

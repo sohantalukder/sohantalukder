@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Md. Sohan Talukder Akash
+# Hi there! 👋 I'm Md. Sohan Talukder
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;React+%26+React+Native+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVV" />
